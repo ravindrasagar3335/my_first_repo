@@ -14,6 +14,8 @@ int a;
 public static void Convert()
 {
 string h=null;
+String a="ravi";
+String b="rama";
 }
 
 }
