@@ -19,4 +19,10 @@ String a="ravi";
 System.out.println();
 }
 
+public static Insert()
+{
+
+}
+
+
 }
