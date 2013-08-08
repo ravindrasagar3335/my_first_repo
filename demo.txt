@@ -26,3 +26,12 @@ public static Insert()
 
 
 }
+
+public class A
+{
+static{
+System.out.println("its static block");
+System.out.println("its static block second line");
+}
+
+}
