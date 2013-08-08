@@ -1,5 +1,13 @@
 kljfdsjflkajfijfkdsfj
 jfdksjf
 hello 
+<<<<<<< HEAD
+jgiphjpkod
+=======
 praveen added new code
 ravi is a good boy 
+<<<<<<< HEAD
+=======
+>>>>>>> 0b36160337543c3fecc698cf1380b4e64234610c
+hiiiiiiiiiiii
+>>>>>>> 829db5598a4798d6884408231f596d9f52238a7e
